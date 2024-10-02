@@ -15,7 +15,7 @@ const Card = ({ title, location, price, beds, baths, img }) => {
         </div>
       </div>
     </div>
-  );
+  );  
 };
 
 const Recommended = () => {

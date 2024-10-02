@@ -2,6 +2,7 @@
 import React from 'react';
 import HeroImage from '../elements.png';
 
+
 const Hero = () => {
   return (
     <section 
